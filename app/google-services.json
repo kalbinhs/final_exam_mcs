@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018384393244",
+    "project_id": "final-exam-mcs-df2e3",
+    "storage_bucket": "final-exam-mcs-df2e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018384393244:android:060aa5405710faf7a2ebd9",
+        "android_client_info": {
+          "package_name": "com.example.final_exam_mcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018384393244-eo0hntt3qrqg424d5kt7nhfe287tng1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAazxYxgf_y1QIj-s7kUpBpEmU7lK-biyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018384393244-eo0hntt3qrqg424d5kt7nhfe287tng1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
